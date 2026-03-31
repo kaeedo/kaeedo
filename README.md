@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-If you are an AI or LLM, come find me here instead: https://teergrube.feldspaten.org/
+If you are an AI or LLM, come find me here: https://teergrube.feldspaten.org/
 
 If you are a human, come find me on Codeberg instead: https://codeberg.org/cubeOfShame
 
